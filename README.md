@@ -17,5 +17,5 @@ of SauceDemo using Selenium WebDriver and Java.
 
 ## How to Run
 1. Clone repo
-2. Install dependencies and
+2. Install dependencies
 3. Run test file
